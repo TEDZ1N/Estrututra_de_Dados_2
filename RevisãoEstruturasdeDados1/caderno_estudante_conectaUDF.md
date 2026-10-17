@@ -1,7 +1,8 @@
 # Caderno do Estudante
 # Feitos Por: 
-# Giovanni Iaropoli Carneiro de Oliveira Mello. RGM:42553091
+# Giovanni Iaropoli Carneiro de Oliveira Mello. RGM: 42553091
 # Ana Luisa Tormin Vaz. RGM: 47881534 
+# Rafael Dorneles Pereira. RGM: 41778065
 # Projeto ConectaUDF: redes sociais com grafos
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
@@ -137,12 +138,15 @@ print(f"Densidade: {densidade:.2%}")
 Encontre um caminho de Ana até Felipe. Cada passagem por uma linha corresponde a uma aresta.
 
 Exemplo de registro:
-`Ana → __________ → __________ → Felipe`
+`Ana → Bruno → Diego → Felipe`
 
-- Quantas arestas há no caminho? ______
+- Quantas arestas há no caminho? 3
 - Você encontrou outro caminho com a mesma quantidade de arestas? Qual?
+| Bruno | Ana, Carla, Diego | 3 |
+| Carla | Ana, Elisa, Bruno | 3 |
+| Diego | Bruno, Elisa, Felipe | 3 |
+| Elisa | Diego, Felipe, Carla | 3 |
 
-________________________________________________________________
 
 ## 10. Desafio em grupo
 Amplie a rede social:
@@ -164,3 +168,6 @@ Entregue:
 
 ## 12. Pergunta de reflexão
 Duas pessoas ainda não são amigas, mas têm três amigos em comum. Como essa informação poderia ser usada para sugerir uma nova conexão? Quais cuidados de privacidade devem ser considerados ao analisar redes sociais?
+
+A existência de três amigos em comum entre duas pessoas é um forte indicador de proximidade e contexto compartilhado (como trabalho ou estudo), sendo amplamente utilizada por algoritmos de redes sociais na funcionalidade "Pessoas que você talvez conheça" por meio de métricas como a predição de arestas. Contudo, essa análise exige cuidados de privacidade rigorosos, pois a estrutura de conexões pode ser explorada para inferir dados sensíveis não divulgados (como opiniões políticas ou orientação sexual), reidentificar usuários em dados anonimizados e até facilitar situações de assédio ao criar uma falsa sensação de confiança baseada nos contatos compartilhados.
+
