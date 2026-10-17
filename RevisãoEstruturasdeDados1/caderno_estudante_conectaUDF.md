@@ -1,4 +1,7 @@
 # Caderno do Estudante
+# Feitos Por: 
+# Giovanni Iaropoli Carneiro de Oliveira Mello. RGM:42553091
+# Ana Luisa Tormin Vaz. RGM: 47881534 
 # Projeto ConectaUDF: redes sociais com grafos
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
@@ -48,15 +51,15 @@ Conte quantas linhas chegam a cada círculo. Registre o resultado.
 
 | Usuário | Amigos diretos | Grau |
 |---|---|---:|
-| Ana | __________________ | ____ |
-| Bruno | __________________ | ____ |
-| Carla | __________________ | ____ |
-| Diego | __________________ | ____ |
-| Elisa | __________________ | ____ |
-| Felipe | __________________ | ____ |
+| Ana | Bruno, Carla| 2 |
+| Bruno | Ana, Carla, Diego | 3 |
+| Carla | Ana, Elisa, Bruno | 3 |
+| Diego | Bruno, Elisa, Felipe | 3 |
+| Elisa | Diego, Felipe, Carla | 3 |
+| Felipe | Elisa, Diego | 2 |
 
 **Pergunta 1:** quem tem mais conexões diretas?  
-Resposta: __________________________________________________
+Resposta: Bruno, Carla, Diego, Elisa
 
 ## 6. Passo a passo: calcule o número de amizades
 Some todos os graus. Como cada amizade conecta dois usuários, cada aresta é contada duas vezes.
@@ -64,9 +67,9 @@ Some todos os graus. Como cada amizade conecta dois usuários, cada aresta é co
 **Fórmula:**  
 `Número de arestas = soma dos graus ÷ 2`
 
-1. Soma dos graus: ______
-2. Divida por 2: ______ ÷ 2 = ______
-3. Quantas amizades existem no grafo? ______
+1. Soma dos graus: 16
+2. Divida por 2: 16 ÷ 2 = 8
+3. Quantas amizades existem no grafo? 8
 
 ## 7. Passo a passo: calcule a densidade
 A densidade compara as amizades existentes com o total de amizades possíveis.
@@ -81,14 +84,14 @@ Em que:
 - `V` = número de vértices.
 
 Substitua os valores:
-`D = 2 × ____ / (____ × (____ − 1))`
+`D = 2 × 16 / (6 × (6 − 1))`
 
-Resultado decimal: __________  
-Resultado percentual: __________ %
+Resultado decimal:  1,0667
+Resultado percentual: 106,66 %
 
 **Interprete:** a rede tem poucas ou muitas das conexões possíveis? Explique com suas palavras.
 
-________________________________________________________________
+A rede tem, ao todo, com todos os integrantes, 15 conexões possíveis.
 
 ## 8. Passo a passo: represente o grafo em Python
 A lista de adjacência registra, para cada usuário, os nomes de seus amigos. Digite o código em Python (por exemplo, no Google Colab ou em outro ambiente disponível).
