@@ -45,7 +45,8 @@ As amizades são:
 4. Não desenhe duas linhas para a mesma amizade.
 5. Confira se todas as oito amizades aparecem.
 
-<img width="653" height="651" alt="WhatsApp Image 2026-10-23 at 19 29 51" src="https://github.com/user-attachments/assets/1be73dc6-b8a7-40d5-a600-390368a55d23" />
+<img width="401" height="334" alt="LSOHXLbsYoTCKuHU" src="https://github.com/user-attachments/assets/4ddcd35e-4e35-42d0-9a69-79b94f5610f4" />
+
 
 ## 5. Passo a passo: calcule o grau
 Conte quantas linhas chegam a cada círculo. Registre o resultado.
@@ -157,7 +158,7 @@ Amplie a rede social:
 5. Compare a densidade antes e depois da ampliação.
 6. Identifique os usuários com mais conexões.
 7. Explique como a rede poderia recomendar uma nova amizade.
-
+<img width="653" height="651" alt="WhatsApp Image 2026-10-23 at 19 29 51" src="https://github.com/user-attachments/assets/1be73dc6-b8a7-40d5-a600-390368a55d23" />
 ## 11. Entrega
 Entregue:
 - desenho do grafo;
