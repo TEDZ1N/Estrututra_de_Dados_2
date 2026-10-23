@@ -180,15 +180,7 @@ Amplie a rede social:
     "Robson": ["Rafael", "Diego", "Fernanda"],
 }
  
-4. Graus:
-| Código | Usuário |
-|---|---|
-| A | Ana |
-| B | Bruno |
-| C | Carla |
-| D | Diego |
-| E | Elisa |
-| F | Felipe |
+
 | Elisa |4|
 |Diego	|4|
 |Carla	|4|
