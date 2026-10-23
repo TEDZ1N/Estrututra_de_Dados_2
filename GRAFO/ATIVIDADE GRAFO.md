@@ -164,7 +164,8 @@ Amplie a rede social:
 1. Foram adicionados os usuários: Giovanni, Mariana, Rafael, Robson, Fernanda
 2. Foram criada as novas amizades: (Giovanni-Mariana), (Mariana-Ana), (Giovanni-Rafael), (Rafael-Robson), (Fernanda-Robson), (Mariana-Fernanda), (Giovanni-Elisa), (Rafael-Carla), (Robson-Diego), (Fernanda-Felipe).
 
-3.  ```
+3. lista de adjacência Python Atualizada
+    ```
    rede = {
    "Giovanni": ["Elisa", "Rafael", "Mariana"],
     "Ana": ["Mariana", "Bruno", "Carla"],
