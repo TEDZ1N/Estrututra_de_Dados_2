@@ -181,6 +181,7 @@ Amplie a rede social:
 }
  
 4. Graus:
+| Código | Usuário |
 |---|---|
 | A | Ana |
 | B | Bruno |
@@ -202,6 +203,7 @@ Amplie a rede social:
 |Arestas |18|
 |Densidade |32,73%|
 | Código | Usuário |
+
 6. A densidade anterior era de 53,33% e a nova é de 32,73%.
 7. Os usuários com mais conexões são, Elisa, Diego e Carla.
 8. A forma mais simples é o fecho triádico: se duas pessoas não são amigas mas têm amigos em comum, é provável que se conheçam, então a rede sugere que se conectem. É o “pessoas que você talvez conheça” das redes sociais.
