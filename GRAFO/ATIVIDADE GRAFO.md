@@ -151,15 +151,48 @@ Exemplo de registro:
 
 ## 10. Desafio em grupo
 Amplie a rede social:
-1. Adicione pelo menos quatro usuários fictícios.
+1. Adicione pelo menos quatro usuários fictícios. 
 2. Crie no mínimo cinco novas amizades.
 3. Atualize a lista de adjacência no Python.
 4. Recalcule os graus, o total de arestas e a densidade.
 5. Compare a densidade antes e depois da ampliação.
 6. Identifique os usuários com mais conexões.
 7. Explique como a rede poderia recomendar uma nova amizade.
+
 <img width="653" height="651" alt="WhatsApp Image 2026-10-23 at 19 29 51" src="https://github.com/user-attachments/assets/1be73dc6-b8a7-40d5-a600-390368a55d23" />
 
+1. Foram adicionados os usuários: Giovanni, Mariana, Rafael, Robson, Fernanda
+2. Foram criada as novas amizades: (Giovanni-Mariana), (Mariana-Ana), (Giovanni-Rafael), (Rafael-Robson), (Fernanda-Robson), (Mariana-Fernanda), (Giovanni-Elisa), (Rafael-Carla), (Robson-Diego), (Fernanda-Felipe).
+3. rede = {
+    "Giovanni": ["Elisa", "Rafael", "Mariana"],
+    "Ana": ["Mariana", "Bruno", "Carla"],
+    "Elisa": ["Giovanni", "Felipe", "Diego", "Carla"],
+    "Mariana": ["Giovanni", "Ana", "Fernanda"],
+    "Felipe": ["Elisa", "Diego", "Fernanda"],
+    "Rafael": ["Giovanni", "Carla", "Robson"],
+    "Bruno": ["Ana", "Diego", "Carla"],
+    "Diego": ["Elisa", "Felipe", "Bruno", "Robson"],
+    "Fernanda": ["Mariana", "Felipe", "Robson"],
+    "Carla": ["Ana", "Elisa", "Bruno", "Rafael"],
+    "Robson": ["Rafael", "Diego", "Fernanda"],
+}
+4. Graus:
+|Elisa	|4|
+|Diego	|4|
+|Carla	|4|
+|Giovanni	|3|
+|Ana	|3|
+|Mariana	|3|
+|Felipe	|3|
+|Rafael	|3|
+|Bruno	|3|
+|Fernanda	|3|
+|Robson	|3|
+|Arestas |18|
+|Densidade |32,73%| 
+5. A densidade anterior era de 53,33% e a nova é de 32,73%.
+6. Os usuários com mais conexões são, Elisa, Diego e Carla.
+7. A forma mais simples é o fecho triádico: se duas pessoas não são amigas mas têm amigos em comum, é provável que se conheçam, então a rede sugere que se conectem. É o “pessoas que você talvez conheça” das redes sociais.
 ## 11. Entrega
 Entregue:
 - desenho do grafo;
