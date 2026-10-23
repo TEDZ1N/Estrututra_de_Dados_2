@@ -202,7 +202,15 @@ Amplie a rede social:
 |Robson	|3|
 |Arestas |18|
 |Densidade |32,73%|
+
 | Código | Usuário |
+|---|---|
+| A | Ana |
+| B | Bruno |
+| C | Carla |
+| D | Diego |
+| E | Elisa |
+| F | Felipe |
 
 6. A densidade anterior era de 53,33% e a nova é de 32,73%.
 7. Os usuários com mais conexões são, Elisa, Diego e Carla.
