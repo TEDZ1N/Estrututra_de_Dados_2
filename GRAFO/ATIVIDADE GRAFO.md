@@ -180,6 +180,7 @@ Amplie a rede social:
     "Robson": ["Rafael", "Diego", "Fernanda"],
 }
 4.
+| Nome | Graus/Densidade |
 |---|---|
 | Elisa | 4 |
 | Diego | 4 |
