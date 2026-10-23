@@ -212,5 +212,3 @@ Entregue:
 Duas pessoas ainda não são amigas, mas têm três amigos em comum. Como essa informação poderia ser usada para sugerir uma nova conexão? Quais cuidados de privacidade devem ser considerados ao analisar redes sociais?
 
 A existência de três amigos em comum entre duas pessoas é um forte indicador de proximidade e contexto compartilhado (como trabalho ou estudo), sendo amplamente utilizada por algoritmos de redes sociais na funcionalidade "Pessoas que você talvez conheça" por meio de métricas como a predição de arestas. Contudo, essa análise exige cuidados de privacidade rigorosos, pois a estrutura de conexões pode ser explorada para inferir dados sensíveis não divulgados (como opiniões políticas ou orientação sexual), reidentificar usuários em dados anonimizados e até facilitar situações de assédio ao criar uma falsa sensação de confiança baseada nos contatos compartilhados.
-| Código | Usuário |
-| zuleide | 5 |
