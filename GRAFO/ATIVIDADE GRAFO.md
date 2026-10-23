@@ -179,7 +179,7 @@ Amplie a rede social:
     "Carla": ["Ana", "Elisa", "Bruno", "Rafael"],
     "Robson": ["Rafael", "Diego", "Fernanda"],
 }
- ```
+ 
 4. Graus:
 |---|---|
 | Elisa |4|
