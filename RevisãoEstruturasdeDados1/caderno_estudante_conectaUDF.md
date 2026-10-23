@@ -5,6 +5,8 @@
 # Rafael Dorneles Pereira. RGM: 41778065
 # Projeto ConectaUDF: redes sociais com grafos
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
+<img width="653" height="651" alt="WhatsApp Image 2026-10-23 at 19 29 51" src="https://github.com/user-attachments/assets/d4e5b9a7-f32e-4f0d-898c-723255b3df77" />
+
 
 ## 1. O desafio
 Você faz parte da equipe que analisa a rede social fictícia **ConectaUDF**. Sua missão é representar as amizades em um grafo, realizar cálculos e usar Python para interpretar a estrutura da rede.
