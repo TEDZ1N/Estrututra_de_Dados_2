@@ -177,8 +177,8 @@ Amplie a rede social:
     "Diego": ["Elisa", "Felipe", "Bruno", "Robson"],
     "Fernanda": ["Mariana", "Felipe", "Robson"],
     "Carla": ["Ana", "Elisa", "Bruno", "Rafael"],
-    "Robson": ["Rafael", "Diego", "Fernanda"],
-}
+    "Robson": ["Rafael", "Diego", "Fernanda"], }
+
 4.
 | Nome | Graus/Densidade |
 |---|---|
