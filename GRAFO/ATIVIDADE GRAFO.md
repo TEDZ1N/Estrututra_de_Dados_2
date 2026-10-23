@@ -164,7 +164,7 @@ Amplie a rede social:
 1. Foram adicionados os usuários: Giovanni, Mariana, Rafael, Robson, Fernanda
 2. Foram criada as novas amizades: (Giovanni-Mariana), (Mariana-Ana), (Giovanni-Rafael), (Rafael-Robson), (Fernanda-Robson), (Mariana-Fernanda), (Giovanni-Elisa), (Rafael-Carla), (Robson-Diego), (Fernanda-Felipe).
 3. rede = {
-    "Giovanni": ["Elisa", "Rafael", "Mariana"],
+   "Giovanni": ["Elisa", "Rafael", "Mariana"],
     "Ana": ["Mariana", "Bruno", "Carla"],
     "Elisa": ["Giovanni", "Felipe", "Diego", "Carla"],
     "Mariana": ["Giovanni", "Ana", "Fernanda"],
@@ -177,7 +177,7 @@ Amplie a rede social:
     "Robson": ["Rafael", "Diego", "Fernanda"],
 }
 4. Graus:
-|Elisa	|4|
+
 |Diego	|4|
 |Carla	|4|
 |Giovanni	|3|
@@ -189,10 +189,18 @@ Amplie a rede social:
 |Fernanda	|3|
 |Robson	|3|
 |Arestas |18|
-|Densidade |32,73%| 
-5. A densidade anterior era de 53,33% e a nova é de 32,73%.
-6. Os usuários com mais conexões são, Elisa, Diego e Carla.
-7. A forma mais simples é o fecho triádico: se duas pessoas não são amigas mas têm amigos em comum, é provável que se conheçam, então a rede sugere que se conectem. É o “pessoas que você talvez conheça” das redes sociais.
+|Densidade |32,73%|
+| Código | Usuário |
+|---|---|
+| Elisa|4 |
+| B | Bruno |
+| C | Carla |
+| D | Diego |
+| E | Elisa |
+| F | Felipe |
+6. A densidade anterior era de 53,33% e a nova é de 32,73%.
+7. Os usuários com mais conexões são, Elisa, Diego e Carla.
+8. A forma mais simples é o fecho triádico: se duas pessoas não são amigas mas têm amigos em comum, é provável que se conheçam, então a rede sugere que se conectem. É o “pessoas que você talvez conheça” das redes sociais.
 ## 11. Entrega
 Entregue:
 - desenho do grafo;
