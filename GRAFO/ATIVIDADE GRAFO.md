@@ -203,6 +203,13 @@ Amplie a rede social:
 | D | Diego |
 | E | Elisa |
 | F | Felipe |
+| A | Ana |
+| B | Bruno |
+| C | Carla |
+| D | Diego |
+| E | Elisa |
+| F | Felipe |
+| F | Felipe |
 
 6. A densidade anterior era de 53,33% e a nova é de 32,73%.
 7. Os usuários com mais conexões são, Elisa, Diego e Carla.
