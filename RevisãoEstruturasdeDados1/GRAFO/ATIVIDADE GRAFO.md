@@ -159,6 +159,7 @@ Amplie a rede social:
 6. Identifique os usuários com mais conexões.
 7. Explique como a rede poderia recomendar uma nova amizade.
 <img width="653" height="651" alt="WhatsApp Image 2026-10-23 at 19 29 51" src="https://github.com/user-attachments/assets/1be73dc6-b8a7-40d5-a600-390368a55d23" />
+
 ## 11. Entrega
 Entregue:
 - desenho do grafo;
