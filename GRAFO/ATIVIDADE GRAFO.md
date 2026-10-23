@@ -163,7 +163,8 @@ Amplie a rede social:
 
 1. Foram adicionados os usuários: Giovanni, Mariana, Rafael, Robson, Fernanda
 2. Foram criada as novas amizades: (Giovanni-Mariana), (Mariana-Ana), (Giovanni-Rafael), (Rafael-Robson), (Fernanda-Robson), (Mariana-Fernanda), (Giovanni-Elisa), (Rafael-Carla), (Robson-Diego), (Fernanda-Felipe).
-3.```python
+
+3.  ```
    rede = {
    "Giovanni": ["Elisa", "Rafael", "Mariana"],
     "Ana": ["Mariana", "Bruno", "Carla"],
@@ -177,7 +178,7 @@ Amplie a rede social:
     "Carla": ["Ana", "Elisa", "Bruno", "Rafael"],
     "Robson": ["Rafael", "Diego", "Fernanda"],
 }
-```
+ ```
 4. Graus:
 |---|---|
 | Elisa |4|
