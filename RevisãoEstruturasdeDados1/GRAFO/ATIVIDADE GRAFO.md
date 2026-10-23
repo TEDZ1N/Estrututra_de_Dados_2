@@ -6,7 +6,8 @@
 # Projeto ConectaUDF: redes sociais com grafos
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
-https://graphonline.top/tmp/saved/mu/muAUCtSkrVgOIulF.png
+<img width="653" height="651" alt="WhatsApp Image 2026-10-23 at 19 29 51" src="https://github.com/user-attachments/assets/1be73dc6-b8a7-40d5-a600-390368a55d23" />
+
 
 ## 1. O desafio
 Você faz parte da equipe que analisa a rede social fictícia **ConectaUDF**. Sua missão é representar as amizades em um grafo, realizar cálculos e usar Python para interpretar a estrutura da rede.
