@@ -197,19 +197,19 @@ Amplie a rede social:
 
 | Código | Usuário |
 |---|---|
-| A | Ana |
-| B | Bruno |
-| C | Carla |
-| D | Diego |
-| E | Elisa |
-| F | Felipe |
-| A | Ana |
-| B | Bruno |
-| C | Carla |
-| D | Diego |
-| E | Elisa |
-| F | Felipe |
-| F | Felipe |
+| Elisa | 4 |
+| Diego | 4 |
+| Carla | 4 |
+| Ana | 3 |
+| Giovanni | 3 |
+| Mariana | 3 |
+| Felipe | 3 |
+| Rafael | 3 |
+| Bruno | 3 |
+| Fernanda | 3 |    
+| Robson | 3 |
+| Arestas | 18 |
+| Densidade | 32.73% |
 
 6. A densidade anterior era de 53,33% e a nova é de 32,73%.
 7. Os usuários com mais conexões são, Elisa, Diego e Carla.
@@ -227,3 +227,4 @@ Duas pessoas ainda não são amigas, mas têm três amigos em comum. Como essa i
 
 A existência de três amigos em comum entre duas pessoas é um forte indicador de proximidade e contexto compartilhado (como trabalho ou estudo), sendo amplamente utilizada por algoritmos de redes sociais na funcionalidade "Pessoas que você talvez conheça" por meio de métricas como a predição de arestas. Contudo, essa análise exige cuidados de privacidade rigorosos, pois a estrutura de conexões pode ser explorada para inferir dados sensíveis não divulgados (como opiniões políticas ou orientação sexual), reidentificar usuários em dados anonimizados e até facilitar situações de assédio ao criar uma falsa sensação de confiança baseada nos contatos compartilhados.
 
+| zuleide | 5 |
