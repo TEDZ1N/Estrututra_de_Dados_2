@@ -196,9 +196,10 @@ Amplie a rede social:
 | Arestas | 18 |
 | Densidade | 32.73% |
 
-6. A densidade anterior era de 53,33% e a nova é de 32,73%.
-7. Os usuários com mais conexões são, Elisa, Diego e Carla.
-8. A forma mais simples é o fecho triádico: se duas pessoas não são amigas mas têm amigos em comum, é provável que se conheçam, então a rede sugere que se conectem. É o “pessoas que você talvez conheça” das redes sociais.
+5. A densidade anterior era de 53,33% e a nova é de 32,73%.
+6. Os usuários com mais conexões são, Elisa, Diego e Carla.
+7. A forma mais simples é o fecho triádico: se duas pessoas não são amigas mas têm amigos em comum, é provável que se conheçam, então a rede sugere que se conectem. É o “pessoas que você talvez conheça” das redes sociais.
+ 
 ## 11. Entrega
 Entregue:
 - desenho do grafo;
@@ -211,5 +212,5 @@ Entregue:
 Duas pessoas ainda não são amigas, mas têm três amigos em comum. Como essa informação poderia ser usada para sugerir uma nova conexão? Quais cuidados de privacidade devem ser considerados ao analisar redes sociais?
 
 A existência de três amigos em comum entre duas pessoas é um forte indicador de proximidade e contexto compartilhado (como trabalho ou estudo), sendo amplamente utilizada por algoritmos de redes sociais na funcionalidade "Pessoas que você talvez conheça" por meio de métricas como a predição de arestas. Contudo, essa análise exige cuidados de privacidade rigorosos, pois a estrutura de conexões pode ser explorada para inferir dados sensíveis não divulgados (como opiniões políticas ou orientação sexual), reidentificar usuários em dados anonimizados e até facilitar situações de assédio ao criar uma falsa sensação de confiança baseada nos contatos compartilhados.
-
+| Código | Usuário |
 | zuleide | 5 |
