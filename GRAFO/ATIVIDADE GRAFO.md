@@ -179,23 +179,7 @@ Amplie a rede social:
     "Carla": ["Ana", "Elisa", "Bruno", "Rafael"],
     "Robson": ["Rafael", "Diego", "Fernanda"],
 }
- 
-
-| Elisa |4|
-|Diego	|4|
-|Carla	|4|
-|Giovanni	|3|
-|Ana	|3|
-|Mariana	|3|
-|Felipe	|3|
-|Rafael	|3|
-|Bruno	|3|
-|Fernanda	|3|
-|Robson	|3|
-|Arestas |18|
-|Densidade |32,73%|
-
-| Código | Usuário |
+4.
 |---|---|
 | Elisa | 4 |
 | Diego | 4 |
