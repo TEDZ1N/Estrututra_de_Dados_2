@@ -182,6 +182,12 @@ Amplie a rede social:
  
 4. Graus:
 |---|---|
+| A | Ana |
+| B | Bruno |
+| C | Carla |
+| D | Diego |
+| E | Elisa |
+| F | Felipe |
 | Elisa |4|
 |Diego	|4|
 |Carla	|4|
