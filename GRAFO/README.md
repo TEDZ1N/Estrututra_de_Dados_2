@@ -18,13 +18,16 @@ Arestas: `1-2, 1-3, 2-3, 2-4, 3-4, 4-5, 4-6, 5-6, 6-7, 6-8, 7-8`
 
 O grafo tem dois grupos de vértices bem ligados internamente: o bloco `{1, 2, 3, 4}` e o bloco `{5, 6, 7, 8}`. Os dois blocos se conectam apenas por `4-6` e por `4-5`, e isso torna o bloqueio dessas conexões interessante para a simulação.
 
-<img width="930" height="390" alt="image" src="https://github.com/user-attachments/assets/cf6af4ce-c6a5-47b0-b926-e71f5399ab28" />
+<img width="935" height="390" alt="image" src="https://github.com/user-attachments/assets/cf6af4ce-c6a5-47b0-b926-e71f5399ab28" />
+
 Diagrama sem bloqueios
 
 <img width="935" height="376" alt="image" src="https://github.com/user-attachments/assets/81986cac-19ff-4102-8071-75dab572801a" />
+
 Diagrama com bloqueio 4-6
 
-<img width="963" height="378" alt="image" src="https://github.com/user-attachments/assets/1e1ec16b-20ba-4a4a-af92-afbbd0637645" />
+<img width="935" height="378" alt="image" src="https://github.com/user-attachments/assets/1e1ec16b-20ba-4a4a-af92-afbbd0637645" />
+
 Diagrama com o bloqueio 4-5
 
 
