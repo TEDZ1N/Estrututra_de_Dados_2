@@ -18,14 +18,6 @@ Arestas: `1-2, 1-3, 2-3, 2-4, 3-4, 4-5, 4-6, 5-6, 6-7, 6-8, 7-8`
 
 O grafo tem dois grupos de vértices bem ligados internamente: o bloco `{1, 2, 3, 4}` e o bloco `{5, 6, 7, 8}`. Os dois blocos se conectam apenas por `4-6` e por `4-5`, e isso torna o bloqueio dessas conexões interessante para a simulação.
 
-## Como executar
-
-Requer Python 3 e nenhuma biblioteca externa.
-
-```bash
-python3 grafo_metro.py
-```
-
 ## O que o programa faz
 
 Calcula o caminho do vértice 1 até o vértice 8 em três situações:
