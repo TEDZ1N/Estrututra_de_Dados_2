@@ -1,3 +1,5 @@
+#ALUNO: GIOVANNI IAROPOLI CARNEIRO DE OLIVEIRA MELLO: 42559031
+
 # Rede de voos: BFS e DFS com simulação de rotas indisponíveis
 
 Trabalho de grafos: modelo próprio de uma rede de voos entre 8 aeroportos brasileiros, implementação de busca em largura (BFS) e busca em profundidade (DFS), simulação de rotas indisponíveis e comparação dos caminhos antes e depois do bloqueio.
@@ -11,6 +13,18 @@ Trabalho de grafos: modelo próprio de uma rede de voos entre 8 aeroportos brasi
 - [x] Explicar as escolhas (seção "Escolhas de projeto")
 
 ## O modelo
+<img width="828" height="312" alt="image" src="https://github.com/user-attachments/assets/e19d8c8f-47d5-4230-90c6-bbca53794ebd" />
+
+Grafo sem bloqueio
+
+<img width="835" height="271" alt="image" src="https://github.com/user-attachments/assets/d17e8826-4274-4bdc-a3e9-9de36a91303f" />
+
+Grafo com bloqueio BSB-CNF
+
+<img width="791" height="304" alt="image" src="https://github.com/user-attachments/assets/2b039d2a-8924-407e-9aad-13394ded1035" />
+
+Grafo com bloqueio BSB-SSA
+
 
 Grafo não direcionado e sem pesos: cada vértice é um aeroporto (código IATA) e cada aresta é uma rota direta entre dois aeroportos. O desenho foi feito no Graph Online.
 
