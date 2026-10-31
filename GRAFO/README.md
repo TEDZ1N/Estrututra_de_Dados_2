@@ -85,9 +85,3 @@ Neste grafo BFS e DFS encontram o mesmo caminho e visitam os aeroportos na mesma
 
 BFS e DFS têm custo O(V + E) em tempo, com V vértices e E arestas, e O(V) de memória extra para visitados, fila ou pilha e pais.
 
-## Estrutura
-
-```
-grafo_metro.py   código completo (modelo, BFS, DFS, simulação)
-README.md        este arquivo
-```
