@@ -1,3 +1,5 @@
+GIOVANNI IAROPOLI CARNEIRO DE OLIVEIRA MELLO RGM:42559031
+
 # Grafo com BFS e DFS: simulação de bloqueio de conexões
 
 Trabalho de grafos: modelo próprio com 8 vértices, implementação de busca em largura (BFS) e busca em profundidade (DFS), simulação de conexões indisponíveis e comparação dos caminhos antes e depois do bloqueio.
